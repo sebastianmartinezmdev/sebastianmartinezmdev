@@ -8,5 +8,5 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: smartineztinez@gmail.com or instagram on devlog.seb
 - 😄 Pronouns: he/him
-- ⚡ Hobbies: i like to playh videogames, listen music and youtube, i'm starting to get into electronics with some arduino and exploring outside my comfort zone
+- ⚡ Hobbies: i like to play videogames, listen music and youtube, i'm starting to get into electronics with some arduino and exploring outside my comfort zone
 
